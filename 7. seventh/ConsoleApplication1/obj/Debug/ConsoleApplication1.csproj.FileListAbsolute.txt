@@ -1,0 +1,11 @@
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\Autofac.dll
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\Autofac.xml
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\laure\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\laure\Documents\Visual Studio 2015\Projects\github\seventh\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\laure\Documents\Visual Studio 2015\Projects\github\seventh\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\laure\Documents\Visual Studio 2015\Projects\github\seventh\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
